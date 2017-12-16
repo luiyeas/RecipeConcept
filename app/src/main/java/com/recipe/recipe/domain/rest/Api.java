@@ -6,9 +6,9 @@ package com.recipe.recipe.domain.rest;
 
 public class Api {
 
-    public static final String BASE_URL = "https://api.myjson.com";
+    public static final String BASE_URL = "http://www.recipepuppy.com";
 
     public interface ENDPOINT {
-        String HEROES = "/bins/bvyob";
+        String HEROES = "/api";
     }
 }

@@ -1,7 +1,7 @@
 package com.recipe.recipe.app.di.component;
 
 import com.recipe.recipe.app.di.RootModule;
-import com.recipe.recipe.app.ui.home.MainActivity;
+import com.recipe.recipe.app.ui.home.activity.MainActivity;
 
 import javax.inject.Singleton;
 
